@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RealTime.Weather.Forecast.App": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "dev"
+      }
+    }
+  }
+}
